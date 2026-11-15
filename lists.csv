@@ -1,0 +1,16 @@
+category,license,source,url
+Ad networks & services,MIT,Pi-hole Optimized Blocklists (zachlagden),https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/advertising.txt
+Analytics & Telemetry,MIT,Pi-hole Optimized Blocklists (zachlagden),https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/tracking.txt
+"Malware, Phishing, Scams",MIT,Pi-hole Optimized Blocklists (zachlagden),https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/malicious.txt
+PUP,MIT,Pi-hole Optimized Blocklists (zachlagden),https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/suspicious.txt
+Piracy,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/piracy.txt
+Ransomware,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/ransomware.txt
+Fraud,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/fraud.txt
+Drugs,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/drugs.txt
+Ads,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/ads.txt
+Abuse,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/abuse.txt
+Redirect,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/redirect.txt
+Scam,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/scam.txt
+Torrent,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/torrent.txt
+Tracking,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/tracking.txt
+Gambling,Public Domain,The Block List Project,https://blocklistproject.github.io/Lists/gambling.txt

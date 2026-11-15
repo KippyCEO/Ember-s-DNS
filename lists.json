@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Ad networks & services",
+    "license": "MIT",
+    "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/advertising.txt",
+    "source": "Pi-hole Optimized Blocklists (zachlagden)"
+  },
+  {
+    "category": "Analytics & Telemetry",
+    "license": "MIT",
+    "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/tracking.txt",
+    "source": "Pi-hole Optimized Blocklists (zachlagden)"
+  },
+  {
+    "category": "Malware, Phishing, Scams",
+    "license": "MIT",
+    "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/malicious.txt",
+    "source": "Pi-hole Optimized Blocklists (zachlagden)"
+  },
+  {
+    "category": "PUP",
+    "license": "MIT",
+    "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/suspicious.txt",
+    "source": "Pi-hole Optimized Blocklists (zachlagden)"
+  },
+  {
+    "category": "Piracy",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/piracy.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Ransomware",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/ransomware.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Fraud",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/fraud.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Drugs",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/drugs.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Ads",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/ads.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Abuse",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/abuse.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Redirect",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/redirect.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Scam",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/scam.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Torrent",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/torrent.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Tracking",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/tracking.txt",
+    "source": "The Block List Project"
+  },
+  {
+    "category": "Gambling",
+    "license": "Public Domain",
+    "url": "https://blocklistproject.github.io/Lists/gambling.txt",
+    "source": "The Block List Project"
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "generated": "2026-11-15 18:49 UTC",
+  "total_unique_domains": 3184783,
+  "lists": [
+    {
+      "category": "Ad networks & services",
+      "file": "lists/ad-networks-services.txt",
+      "domains": 268178,
+      "source": "Pi-hole Optimized Blocklists (zachlagden)",
+      "license": "MIT",
+      "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/advertising.txt"
+    },
+    {
+      "category": "Analytics & Telemetry",
+      "file": "lists/analytics-telemetry.txt",
+      "domains": 8926,
+      "source": "Pi-hole Optimized Blocklists (zachlagden)",
+      "license": "MIT",
+      "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/tracking.txt"
+    },
+    {
+      "category": "Malware, Phishing, Scams",
+      "file": "lists/malware-phishing-scams.txt",
+      "domains": 1581012,
+      "source": "Pi-hole Optimized Blocklists (zachlagden)",
+      "license": "MIT",
+      "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/malicious.txt"
+    },
+    {
+      "category": "PUP",
+      "file": "lists/pup.txt",
+      "domains": 55168,
+      "source": "Pi-hole Optimized Blocklists (zachlagden)",
+      "license": "MIT",
+      "url": "https://media.githubusercontent.com/media/zachlagden/Pi-hole-Optimized-Blocklists/main/lists/suspicious.txt"
+    },
+    {
+      "category": "Piracy",
+      "file": "lists/piracy.txt",
+      "domains": 2154,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/piracy.txt"
+    },
+    {
+      "category": "Ransomware",
+      "file": "lists/ransomware.txt",
+      "domains": 1904,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/ransomware.txt"
+    },
+    {
+      "category": "Fraud",
+      "file": "lists/fraud.txt",
+      "domains": 285200,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/fraud.txt"
+    },
+    {
+      "category": "Drugs",
+      "file": "lists/drugs.txt",
+      "domains": 26029,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/drugs.txt"
+    },
+    {
+      "category": "Ads",
+      "file": "lists/ads.txt",
+      "domains": 235901,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/ads.txt"
+    },
+    {
+      "category": "Abuse",
+      "file": "lists/abuse.txt",
+      "domains": 435119,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/abuse.txt"
+    },
+    {
+      "category": "Redirect",
+      "file": "lists/redirect.txt",
+      "domains": 108685,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/redirect.txt"
+    },
+    {
+      "category": "Scam",
+      "file": "lists/scam.txt",
+      "domains": 8527,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/scam.txt"
+    },
+    {
+      "category": "Torrent",
+      "file": "lists/torrent.txt",
+      "domains": 2620,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/torrent.txt"
+    },
+    {
+      "category": "Tracking",
+      "file": "lists/tracking.txt",
+      "domains": 143876,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/tracking.txt"
+    },
+    {
+      "category": "Gambling",
+      "file": "lists/gambling.txt",
+      "domains": 342623,
+      "source": "The Block List Project",
+      "license": "Public Domain",
+      "url": "https://blocklistproject.github.io/Lists/gambling.txt"
+    }
+  ]
+}
