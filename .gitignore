@@ -5,3 +5,4 @@ updater/updater.log
 updater/config.json
 __pycache__/
 *.pyc
+updater/

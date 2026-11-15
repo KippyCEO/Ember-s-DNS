@@ -39,10 +39,6 @@ Ember's DNS downloads our source lists once a day, strips comments, normalizes t
 
 Each file is a plain list of domains (one per line), which works in Pi-hole, AdGuard Home, and most other DNS filters. `stats.json` has the latest counts.
 
-## The updater
-
-[`updater/`](updater) contains the small Python app (with a GUI) that does the daily build and push. See [`updater/README.md`](updater/README.md).
-
 ## Sources
 
 View our sources here: [Ember's DNS source list](https://workdrive.zohopublic.com/sheet/open/65qe26d5d1b446f784448ac45022cbad0ddfc)
